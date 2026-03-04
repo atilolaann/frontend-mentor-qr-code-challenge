@@ -39,5 +39,5 @@ was how to properly center elements on a page using CSS flexbox.
 Going forward i want to keep improving in CSS layout and code structure
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/atilolann/ati_codes.)
+- Frontend Mentor - [@ati_codes](https://www.frontendmentor.io/atilolann/ati_codes.)
 
